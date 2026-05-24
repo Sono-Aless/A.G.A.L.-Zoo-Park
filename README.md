@@ -1,4 +1,4 @@
-# A.G.A.L. Zoo Park
+# A.G.A.L. Zoo Parc
 
 # What?
 This is a site for a fictional zoo park
